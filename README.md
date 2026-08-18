@@ -1,4 +1,3 @@
-"# Toothpaste-dispenser" 
 # Assistive Toothpaste Dispenser — SolidWorks Design & FEA
 
 A crank-driven, gear-and-roller toothpaste dispenser designed for users with limited motor function and digit control, who cannot generate the pinch force or wrist rotation a standard toothpaste tube requires. The device is fully mechanical, operable with one hand, and dispenses a consistent amount of paste per turn of the crank.
