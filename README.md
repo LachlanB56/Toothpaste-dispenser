@@ -103,7 +103,7 @@ Modelled from a single `Boss-Extrude`, then hollowed and shaped with seven `Cut-
 The top-level assembly contains eight components — four gears, two rollers, the body, and the swept crank — constrained with mates so the gear train and rollers rotate together.
 
 <p align="center">
-  <img src="assets/feature-tree-assembly.png" width="480" alt="Assembly FeatureManager design tree">
+  <img width="779" height="477" alt="Screenshot 2026-09-22 191007" src="https://github.com/user-attachments/assets/2acf4903-7100-4eb5-b6b0-4900f1cd01e9" />
   <img src="assets/feature-tree-body.png" width="330" alt="Body part FeatureManager design tree">
 </p>
 
@@ -134,7 +134,7 @@ Evaluated in SolidWorks on the assembly as modelled:
 | Centre of mass (X, Y, Z) | 204.42, −9.80, 52.92 mm |
 
 <p align="center">
-  <img src="assets/mass-properties.png" width="520" alt="SolidWorks mass properties output">
+  <img width="521" height="538" alt="Screenshot 2026-09-22 191039" src="https://github.com/user-attachments/assets/196ae864-f808-4c42-b34e-1ca351254d39" />
 </p>
 
 The low, forward centre of mass keeps the device stable on the counter while the crank is turned — the dispenser does not need to be held down with the second hand.
